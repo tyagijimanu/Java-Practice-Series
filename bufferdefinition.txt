@@ -1,0 +1,2 @@
+buffer are usually used for matching the speed between the source and your machine
+or destination and your machine
